@@ -5,8 +5,8 @@
 #include <assert.h>
 #include <sys/time.h>
 #include <time.h>
-#include "./kd_tree/kdtree.h"
-#include"./image_process/image_processing.h"
+#include "kdtree.h"
+#include"image_processing.h"
 
 int main(){
     
